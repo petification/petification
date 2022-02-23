@@ -1,0 +1,6 @@
+[submodule "device"]
+	path = device
+	url = git@github.com:petification/device.git
+[submodule "platform"]
+	path = platform
+	url = git@github.com:petification/platform.git
