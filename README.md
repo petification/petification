@@ -1,5 +1,5 @@
 # Petification IoT
-Open-source IoT Source for pet care services
+Open-source IoT Solution for pet care services
 
 <br>
 
