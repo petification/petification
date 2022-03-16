@@ -39,4 +39,4 @@ Open-source IoT Solution for pet care services
 This project is released under [MIT License](./LICENSE)
 
 ## Acknowledge
-The authors would like to appreciate the support of Chungnam National University, Software-oriented university council, Purdue University and Institute for Information & communication Technology Planning & evaluation(IITP). Especially, the authors of this study are grateful to Professor Minsun Lee of Chungnam National University, Professor Eric Matdon and Anthony Smith of Purdue University, and Ph.D Minji Lee for helping us participate in the project.
+The authors would like to appreciate the support of Chungnam National University, Software-oriented university council, Purdue University and Institute for Information & communication Technology Planning & evaluation(IITP). Especially, the authors of this study are grateful to Professor Minsun Lee of Chungnam National University, Professor Eric T. Matson and Anthony H. Smith of Purdue University, and Ph.D Minji Lee for helping us participate in the project.
