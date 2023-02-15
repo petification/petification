@@ -1,6 +1,8 @@
 # Petification IoT
 Open-source IoT Solution for pet care services
 
+![petification banner image](./docs/images/petification-banner.png)
+
 <br>
 
 ![npm 8.1.2](https://img.shields.io/badge/npm-8.1.2-orange)
